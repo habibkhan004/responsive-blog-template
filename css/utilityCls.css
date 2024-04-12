@@ -1,0 +1,24 @@
+
+.max-width-1{
+    width: 85vw;
+}
+.max-width-2{
+    width: 65vw;
+}
+.m-auto{
+    margin: auto;
+}
+.btn{
+
+    padding: 4px 13px;
+    font-family: cursive;
+    font-size: 15px;
+    border: 1px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(148, 94, 94);
+    color:white;
+    transition: 0.3s ease-in-out;
+}

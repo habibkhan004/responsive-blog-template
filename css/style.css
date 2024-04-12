@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100;0,9..40,200;0,9..40,400;1,9..40,100;1,9..40,200;1,9..40,300;1,9..40,400&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navigation {
+    margin: 30px 0px;
+    /* height: 34px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+
+.footer {
+
+    height: 45px;
+}
+
+.nav-left {
+    font-size: 18px;
+    display: flex;
+    font-family: "Roboto", sans-serif;
+}
+
+.nav-left ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 0px 50px;
+
+}
+
+.nav-left ul li {
+
+    display: flex;
+    margin: 0px 15px;
+    font-size: 20px;
+}
+
+.nav-left ul li a {
+    text-decoration: none;
+    color: black;
+    font-family: "Roboto", sans-serif;
+}
+
+.nav-left ul li a:hover {
+    color: rgb(243, 7, 7);
+}
+
+.form-input {
+    padding: 4px 13px;
+    font: 15px;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin: 0px 15px;
+    font-family: "Baloo Da 2", sans-serif;
+}
+
+.top {
+    height: 20px;
+}
+
+.content {
+    padding: 15px 15px;
+    /* height: 60vh; */
+    display: flex;
+}
+.content::after{
+    content: "";
+    background-image: url('/images/11.svg');
+    position: absolute;
+   width:86%;
+    height: inherit;
+    opacity: 0.15;
+}
+.content-left {
+    width: 70%;
+    padding: 0px 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Baloo Bhaina 2", sans-serif;
+    z-index: 1;
+    
+}
+.content-left p{
+    text-align: justify;
+}
+
+.content-right {
+
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.content-right img {
+    height: 40vh;
+    width: 20vw;
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 4px;
+}
+
+.foot {
+    height: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+}
+.homearticles{
+    background-color: rgba(214, 212, 212, 0.5);
+    font-family: 'Baloo bhaina 2', sans-serif;
+}
+.article{
+    display: flex;
+    margin: 25px;
+}
+.article-img img{
+    width: 250px;
+}
+.article-content{
+    align-self: center;
+    padding: 25px;
+}
+.article-content a{
+    text-decoration: none;
+    color: black;
+}
