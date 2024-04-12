@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+font-family:'Ubantu', sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Varela+Round&display=swap');
+ font-family: 'Varela Round', sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+font-family: "Roboto", sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400..800&display=swap');
+font-family: "Baloo Da 2", sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500..800&display=swap');
+font-family: "Baloo Bhaina 2", sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100;0,9..40,200;0,9..40,400;1,9..40,100;1,9..40,200;1,9..40,300;1,9..40,400&display=swap');
+ font-family: 'DM Sans', sans-serif;
+
+@import url('href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@900;1200&display=swap');
+ font-family:' Serif JP', serif;
+
